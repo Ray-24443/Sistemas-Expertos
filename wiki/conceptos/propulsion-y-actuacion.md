@@ -14,4 +14,4 @@ La miniaturización obliga a elegir el mecanismo según el medio, la tarea y la 
 
 En fluidos o dentro del organismo, la actuación magnética permite aplicar fuerzas desde el exterior. La propulsión biomimética —por ejemplo, geometrías helicoidales o inspiradas en flagelos— busca aprovechar locomoción adecuada al régimen físico de pequeña escala.
 
-La tensión superficial, la resistencia y la relación área/volumen no son detalles secundarios: condicionan qué mecanismos resultan viables. Véanse [[control-y-navegacion]] y [[autonomia-y-energia]].
+La tensión superficial, la resistencia y la relación área/volumen no son detalles secundarios: condicionan qué mecanismos resultan viables. Véanse [[fisica-de-pequena-escala]], [[fabricacion-e-integracion]], [[control-y-navegacion]] y [[autonomia-y-energia]].

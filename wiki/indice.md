@@ -19,6 +19,20 @@ Punto de partida para navegar la wiki. Se actualizará con cada fuente o anális
 - [[autonomia-y-energia]] — límites de alimentación y autonomía.
 - [[biomimetica-y-enjambres]] — inspiración biológica y coordinación.
 
+- [[fisica-de-pequena-escala]] — fuerzas y efectos de escala que condicionan el diseño.
+- [[fabricacion-e-integracion]] — ensamblaje de subsistemas y compromisos de miniaturización.
+- [[ciclo-de-vida-en-medicina]] — administración, acción y destino seguro de sistemas médicos.
+- [[transicion-entre-medios]] — cruce entre aire, agua y superficies.
+- [[adhesion-y-movilidad-en-superficies]] — tracción y desplazamiento en infraestructura.
+- [[robotica-blanda-y-robustez]] — materiales deformables, tolerancia a daño y reparación.
+- [[niveles-de-evidencia]] — cómo distinguir propuestas, laboratorio y clínica.
+- [[actuacion-magnetica-remota]] — movimiento y orientación desde campos externos.
+- [[imagen-y-localizacion]] — observación espacial para el control con realimentación.
+- [[funcionalizacion-y-reconocimiento]] — interacción selectiva con biomarcadores u objetivos.
+- [[liberacion-controlada-de-carga]] — entrega localizada y verificable de agentes terapéuticos.
+- [[sistemas-biohibridos]] — combinación de componentes artificiales y biológicos.
+- [[locomocion-diferencial]] — control de plataformas miniatura mediante sus dos lados.
+
 ## Componentes y técnicas
 
 - [[biosensores-y-observacion]] — detección, transducción e imagen.

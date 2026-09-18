@@ -16,7 +16,9 @@ Presenta robots inspirados en insectos y mecanismos de locomoción a pequeña es
 ## Hallazgos a integrar
 
 - Actuadores piezoeléctricos, polímeros electroactivos y combustión son rutas distintas de [[propulsion-y-actuacion]].
-- La alimentación, fragilidad y autonomía siguen siendo límites centrales: [[autonomia-y-energia]].
+- La alimentación, fragilidad y autonomía siguen siendo límites centrales: [[autonomia-y-energia]] y [[fabricacion-e-integracion]].
+- La tensión superficial, la baja inercia y la relación área/volumen se recogen en [[fisica-de-pequena-escala]].
+- Las transiciones agua-aire, la adhesión electrostática y los actuadores blandos se desarrollan en [[transicion-entre-medios]], [[adhesion-y-movilidad-en-superficies]] y [[robotica-blanda-y-robustez]].
 - Menciona inspección de turbinas y búsqueda/rescate como aplicaciones; también plantea riesgos de vigilancia y enjambres: [[inspeccion-y-rescate]] y [[retos-y-validacion]].
 
 ## Límites

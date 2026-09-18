@@ -19,10 +19,10 @@ La aplicación dominante en las fuentes es transportar o liberar una carga terap
 
 1. Transportar o introducir el sistema.
 2. Guiarlo y observarlo: [[control-y-navegacion]].
-3. Reconocer el objetivo o alcanzar la ubicación.
-4. Liberar fármaco o realizar una acción.
-5. Garantizar seguridad, recuperación o biodegradación.
+3. Reconocer el objetivo o alcanzar la ubicación: [[funcionalizacion-y-reconocimiento]].
+4. Liberar fármaco o realizar una acción: [[liberacion-controlada-de-carga]].
+5. Garantizar seguridad, recuperación o biodegradación: [[ciclo-de-vida-en-medicina]].
 
 ## Estado de la evidencia en este vault
 
-Las fuentes incluyen demostraciones *in vitro*, en modelos o descritas de forma prospectiva. Algunas piezas divulgativas afirman ensayos en humanos o compatibilidad clínica sin referencias primarias completas. No deben interpretarse como práctica clínica establecida sin corroboración. Véase [[retos-y-validacion]].
+Las fuentes incluyen demostraciones *in vitro*, en modelos o descritas de forma prospectiva. Algunas piezas divulgativas afirman ensayos en humanos o compatibilidad clínica sin referencias primarias completas. No deben interpretarse como práctica clínica establecida sin corroboración. Véanse [[ciclo-de-vida-en-medicina]] y [[retos-y-validacion]].

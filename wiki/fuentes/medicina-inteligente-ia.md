@@ -15,4 +15,4 @@ Relaciona diseño de fármacos con IA y microrrobots magnéticos para entrega lo
 
 ## Límites críticos
 
-La fuente mezcla desarrollo de fármacos y microrrobótica, y hace afirmaciones de compatibilidad clínica y pruebas en humanos sin aportar las referencias primarias completas. Se registra como pista de investigación, no como evidencia de uso clínico establecido. Véase [[retos-y-validacion]].
+La fuente mezcla desarrollo de fármacos y microrrobótica, y hace afirmaciones de compatibilidad clínica y pruebas en humanos sin aportar las referencias primarias completas. Se registra como pista de investigación, no como evidencia de uso clínico establecido. Véanse [[ciclo-de-vida-en-medicina]] y [[retos-y-validacion]].

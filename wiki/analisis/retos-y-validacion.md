@@ -16,12 +16,14 @@ fuentes:
 - Energía y autonomía a pequeña escala: [[autonomia-y-energia]].
 - Navegación, localización y control con realimentación: [[control-y-navegacion]].
 - Biocompatibilidad, liberación de carga y destino del sistema en aplicaciones médicas: [[medicina-dirigida]].
-- Fabricación precisa, robustez y coste.
+- [[fabricacion-e-integracion|Fabricación e integración]] precisas, robustez y coste.
 - Ética, regulación y posible vigilancia o uso indebido, especialmente con enjambres: [[biomimetica-y-enjambres]].
 
 ## Regla de evidencia
 
 Al añadir una afirmación técnica o biomédica, registrar el tipo de evidencia: concepto, simulación, *in vitro*, modelo animal, estudio en tejido, ensayo clínico o uso establecido. No elevar una afirmación divulgativa a hecho clínico sin fuente primaria verificable.
+
+Véase también [[niveles-de-evidencia]].
 
 ## Preguntas abiertas
 

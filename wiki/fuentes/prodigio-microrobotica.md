@@ -15,4 +15,4 @@ Describe un taller educativo basado en una plataforma móvil pequeña, locomoci�
 
 ## Aporte y límite
 
-Apoya que la escala del término depende del contexto: [[escala-y-definicion]]. Es una descripción de actividad formativa, no un informe de investigación.
+Apoya que la escala del término depende del contexto: [[escala-y-definicion]] y [[locomocion-diferencial]]. Es una descripción de actividad formativa, no un informe de investigación.

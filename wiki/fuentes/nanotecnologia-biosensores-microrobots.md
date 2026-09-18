@@ -15,4 +15,4 @@ Entrevista sobre nanomateriales, biosensores y micromotores. Describe control in
 
 ## Aporte
 
-Fuente especialmente útil para [[biosensores-y-observacion]], [[control-y-navegacion]], [[medicina-dirigida]] y [[retos-y-validacion]]. También subraya evaluación ética y regulación.
+Fuente especialmente útil para [[biosensores-y-observacion]], [[control-y-navegacion]], [[medicina-dirigida]] y [[retos-y-validacion]]. Sus aportes se desglosan en [[actuacion-magnetica-remota]], [[imagen-y-localizacion]], [[funcionalizacion-y-reconocimiento]], [[liberacion-controlada-de-carga]] y [[sistemas-biohibridos]]. También subraya evaluación ética y regulación.
