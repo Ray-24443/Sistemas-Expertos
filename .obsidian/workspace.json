@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e08ec50e0129a930",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c2548b27fa7338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "913c46af1fb24b8b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e0e8a6f15b6c1c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8480fcde8156677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f60eabb5f469bd6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ff6c57605a3d4ae4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c4ab3bc124835542",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea7159434f25105d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7010c75a57446b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae734697b187cbe9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "807ebf69056922fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "aac600ffc4273332",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "11ba1e733ee2f189",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "8c3a3b99f9f9109a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "913c46af1fb24b8b",
+  "lastOpenFiles": [
+    "raw/El prodigio de la microrobótica.md",
+    "wiki/analisis/retos-y-validacion.md",
+    "wiki/fuentes/microrobotica-economipedia.md",
+    "raw/Microrobótica Qué es, Características y Ejemplos.md",
+    "raw/Microrobótica.md",
+    "wiki/aplicaciones/inspeccion-y-rescate.md",
+    "wiki/aplicaciones/medicina-dirigida.md",
+    "wiki/componentes/biosensores-y-observacion.md",
+    "wiki/conceptos/biomimetica-y-enjambres.md",
+    "wiki/conceptos/autonomia-y-energia.md",
+    "wiki/conceptos/control-y-navegacion.md",
+    "wiki/conceptos/propulsion-y-actuacion.md",
+    "wiki/conceptos/escala-y-definicion.md",
+    "wiki/fuentes/microrobots-medicos-futuro.md",
+    "wiki/fuentes/nanotecnologia-biosensores-microrobots.md",
+    "wiki/fuentes/caracteristicas-y-ejemplos.md",
+    "wiki/fuentes/revolucion-medicina-ia.md",
+    "wiki/fuentes/medicina-inteligente-ia.md",
+    "wiki/fuentes/paladin-medicina-moderna.md",
+    "wiki/fuentes/prodigio-microrobotica.md",
+    "wiki/fuentes/que-es-un-microrobot.md",
+    "wiki/fuentes/mit-insectos-robots.md",
+    "raw/Nanotecnología, biosensores y microrobots.md",
+    "raw/Medicina Inteligente IA y Microrobots que ya Actúan en Humanos (2025).md",
+    "raw/¿Qué es un microrobot.md",
+    "raw/¿Por Qué MIT Está Haciendo Insectos Robots.md",
+    "wiki/analisis",
+    "wiki/aplicaciones",
+    "wiki/componentes",
+    "wiki/conceptos",
+    "wiki/fuentes",
+    "wiki",
+    "raw/assets",
+    "raw"
+  ]
+}
